@@ -17,7 +17,7 @@ ready to explore the world of Data and obtain skills like:
 
 - Cloud computing
 
-_ Interpersonal skills
+- Interpersonal skills
 
 
 For anyone interested in viewing my Tech-Portfolio, make edits, copy or get inspired from some of my current 
