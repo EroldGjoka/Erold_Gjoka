@@ -1,21 +1,33 @@
 # Erold Gjoka 👨🏻‍🎓
 
 My name is Erold, and I am currently enrolled in Bootcamp from [HyperionDev](https://www.hyperiondev.com/) for the role of Data Science
-with a goal of landing my first job in the Tech-Industry. I am a highly motivated and ambitious guy 
+with a goal of landing my first job in the tech industry. I am a highly motivated and ambitious guy 
 ready to explore the world of Data and obtain skills like:
 
 
 - Programming(Python)
 
+- Object-Oriented Programming (OOP)
+
 - Statistics and probability
 
 - Data wrangling and database management
 
-- Machine learning and deep learning
+- Single Linear Regression & Machine learning
+
+- Multiple Linear Regression & Machine learning
 
 - Data visualization
 
-- Cloud computing
+- Data Analysis
+
+- Logistic Regression
+
+- Supervised & Unsupervised Learning
+
+- MATLAB
+
+- spaCy
 
 - Interpersonal skills
 
@@ -26,4 +38,4 @@ projects feel free to use the link underneath!
 ### My Profile URL: [Erold Gjoka Profile](https://github.com/EroldGjoka)
 
 
-<img width="277" alt="Screenshot 2024-03-19 at 02 27 15" src="https://github.com/EroldGjoka/EroldGjoka/assets/162522371/3f33244d-210e-4160-86f6-69f1109c6363">
+![IMG_1397](https://github.com/EroldGjoka/EroldGjoka/assets/162522371/1b411922-84b2-481c-a075-175508204bee)
