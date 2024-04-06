@@ -25,7 +25,7 @@ ready to explore the world of Data and obtain skills like:
 
 - Supervised & Unsupervised Learning
 
-- MATLAB
+- Matplotlib
 
 - spaCy
 
